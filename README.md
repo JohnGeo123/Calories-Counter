@@ -49,6 +49,6 @@ Feel free to explore and modify the script to customize the Calorie Counter or a
 ## Getting Started
 
 1. Clone the repository:
-   `git clone https://github.com/Erikote04/Calorie-Counter.git`
+   `git clone https://github.com/JohnGeo123/Calorie-Counter.git`
 2. Open index.html in your preferred web browser.
 3. Start tracking your daily calories with the Calorie Counter!
